@@ -1,5 +1,5 @@
 {
-  "name": "The Communication Bridge",
+  "name": "SignFlux",
   "description": "An AI-powered sign language translation bridge that converts gestures into text and speech in real-time.",
   "requestFramePermissions": ["camera", "microphone"]
 }
